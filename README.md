@@ -1,4 +1,4 @@
 # PRUEBA
-Esto es un texto.
+El archivo a.txt estará en italiano.
 
-Esto es otro texto.
+El archivo b.txt estará en español.
