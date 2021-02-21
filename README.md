@@ -1,2 +1,4 @@
-# Texto de prueba
+# PRUEBA
 Esto es un texto.
+
+Esto es otro texto.
