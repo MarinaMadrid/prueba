@@ -1,0 +1,48 @@
+#main-title {
+  text-align: center;
+  color: blue;
+  text-shadow: yellow 2px 2px;
+}
+
+legend {
+  color: white;
+  background-color: red;
+}
+
+fieldset {
+  border: 0;
+  border-radius: 2px;
+  background-color: cyan;
+}
+
+fieldset > p, .buttons > p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+input {
+  border: 1px solid grey;
+  border-bottom: none;
+  border-right: none;
+  border-radius: 5px;
+  background-color: yellow;
+}
+
+#contract-fieldset > label {
+  margin-right: 24px;
+}
+
+#company-select {
+  margin-right: 24px;
+}
+
+input[type=date] {
+  background-color: white;
+  border-radius: 0;
+}
+
+.bottom-button {
+  background-color: pink;
+  max-width: 100px;
+  border-radius: 5px;
+}
